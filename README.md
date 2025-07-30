@@ -1,30 +1,44 @@
 # Cat-Photo-App
+# 🐱 CatPhotoApp
+
 A stylish, responsive web project celebrating cats — crafted with semantic HTML, modern CSS techniques, and accessibility-first design principles. Whether you're submitting cat photos or exploring feline quirks, this single-page app delivers a sleek, interactive experience.
 
-# ✨ Features:
+## ✨ Features
 
-1.🎨 Glassmorphism UI for modern aesthetics
+- 🎨 Glassmorphism UI for modern aesthetics  
+- 📸 Interactive Cat Gallery with centered image showcase  
+- ✅ Accessible form with semantic tags and keyboard support  
+- 📱 Responsive layout with fluid grid and media queries  
+- 🐾 Cat personality checklist + submission flow  
+- 🧭 Navigation bar with smooth scrolling and transitions  
 
-2.📸 Interactive Cat Gallery with centered image showcase
+## 🛠️ Technologies Used
 
-3.✅ Accessible form with semantic tags and keyboard support
+| Tech Stack                  | Usage                                         |
+|-----------------------------|-----------------------------------------------|
+| **HTML5**                   | Semantic structure, accessibility tags        |
+| **CSS3**                    | Layout (Grid/Flexbox), visual styles          |
+| **Google Fonts**            | Custom typography for aesthetic readability   |
+| **Responsive Design**       | Mobile-first structure using media queries    |
+| **Vanilla JS** _(optional)_ | Hover animations and visual interactions      |
 
-4.📱 Responsive layout with fluid grid and media queries
+## 📁 File Structure
 
-5.🐾 Cat personality checklist + submission flow
+- `index.html` – Markup structure  
+- `style.css` – Responsive styling  
+- `README.md` – Project documentation  
 
-6.🧭 Navigation bar with smooth scrolling and transitions
+## 💡 Inspiration
 
-# 🛠️ Technologies Used
+This project began as part of the [freeCodeCamp Cat Photo App challenge](https://www.freecodecamp.org) and evolved into a showcase of best practices in accessibility, responsive design, and playful UI development.
 
-## **Tech Stack**           ## **Usage**
+## 🚀 How to Run
 
- 1.HTML5	                      Semantic structure, accessibility tags
+Open `index.html` directly in your browser or view the live site via GitHub Pages:
 
- 2.CSS3	                          Layout (Grid/Flexbox), visual styles
+👉 [Live Demo](https://mukulsehrawat07.github.io/Cat-Photo-App/)
 
- 3.Google Fonts	                  Custom typography for aesthetic readability
+## 🙌 Author
 
- 4.Responsive Design	          Mobile-first structure using media queries
-
- 5.Vanilla JS (optional)          Hover animations and visual interactions
+Made with curiosity and care by [**Mukul Sehrawat**](https://github.com/Mukulsehrawat07)  
+Proactive learner, accessibility advocate & full-stack developer in the making.
