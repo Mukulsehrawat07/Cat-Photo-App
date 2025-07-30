@@ -17,14 +17,14 @@ A stylish, responsive web project celebrating cats — crafted with semantic HTM
 
 # 🛠️ Technologies Used
 
-**Tech Stack**           **Usage**
+## **Tech Stack**           ## **Usage**
 
- 1.HTML5	               Semantic structure, accessibility tags
+ 1.HTML5	                      Semantic structure, accessibility tags
 
- 2.CSS3	                   Layout (Grid/Flexbox), visual styles
+ 2.CSS3	                          Layout (Grid/Flexbox), visual styles
 
- 3.Google Fonts	           Custom typography for aesthetic readability
+ 3.Google Fonts	                  Custom typography for aesthetic readability
 
- 4.Responsive Design	   Mobile-first structure using media queries
+ 4.Responsive Design	          Mobile-first structure using media queries
 
- 5.Vanilla JS (optional)   Hover animations and visual interactions
+ 5.Vanilla JS (optional)          Hover animations and visual interactions
