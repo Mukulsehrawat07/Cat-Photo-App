@@ -1,7 +1,7 @@
 # Cat-Photo-App
 A stylish, responsive web project celebrating cats — crafted with semantic HTML, modern CSS techniques, and accessibility-first design principles. Whether you're submitting cat photos or exploring feline quirks, this single-page app delivers a sleek, interactive experience.
 
-✨ Features:
+# ✨ Features:
 
 1.🎨 Glassmorphism UI for modern aesthetics
 
@@ -15,8 +15,10 @@ A stylish, responsive web project celebrating cats — crafted with semantic HTM
 
 6.🧭 Navigation bar with smooth scrolling and transitions
 
-🛠️ Technologies Used
+# 🛠️ Technologies Used
+
 **Tech Stack**           **Usage**
+
  1.HTML5	               Semantic structure, accessibility tags
 
  2.CSS3	                   Layout (Grid/Flexbox), visual styles
