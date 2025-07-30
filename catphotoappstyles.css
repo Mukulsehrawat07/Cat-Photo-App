@@ -1,0 +1,115 @@
+:root {
+  --bg: #fdf7ff;
+  --glass: rgba(255, 255, 255, 0.6);
+  --border: rgba(255, 255, 255, 0.4);
+  --accent: #974ec3;
+}
+
+body {
+  margin: 0;
+  font-family: 'Quicksand', sans-serif;
+  background: linear-gradient(to right, #ecd9f9, #fdf6ff);
+  color: #333;
+  scroll-behavior: smooth;
+}
+
+header {
+  text-align: center;
+  padding: 2rem 1rem;
+}
+
+nav ul {
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+  list-style: none;
+  margin-bottom: 1rem;
+  padding: 0;
+}
+
+nav a {
+  color: var(--accent);
+  text-decoration: none;
+  font-weight: 600;
+  transition: color 0.3s ease;
+}
+
+nav a:hover {
+  color: #c18ee0;
+}
+
+h1 {
+  font-size: 2.5rem;
+}
+
+.tagline {
+  font-size: 1.2rem;
+  color: #555;
+}
+
+.card {
+  margin: 2rem auto;
+  max-width: 800px;
+  padding: 1.5rem;
+  background: var(--glass);
+  border-radius: 1rem;
+  backdrop-filter: blur(12px);
+  border: 1px solid var(--border);
+  box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+}
+
+img {
+  max-width: 100%;
+  border-radius: 0.5rem;
+  margin-top: 1rem;
+}
+
+.centered-photo {
+  display: block;
+  margin: 1rem auto;
+  transition: transform 0.5s ease;
+}
+
+.centered-photo:hover {
+  transform: scale(1.05);
+}
+
+figure {
+  text-align: center;
+  margin-top: 1rem;
+}
+
+figcaption {
+  margin-top: 0.5rem;
+  font-style: italic;
+  color: #555;
+}
+
+form {
+  display: grid;
+  gap: 1rem;
+}
+
+input[type="url"],
+button {
+  padding: 0.6rem;
+  border-radius: 0.5rem;
+  border: 1px solid #aaa;
+}
+
+button {
+  background-color: var(--accent);
+  color: white;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #b268e2;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  font-size: 0.9rem;
+}
+
