@@ -24,8 +24,8 @@ A stylish, responsive web project celebrating cats — crafted with semantic HTM
 
 ## 📁 File Structure
 
-- `index.html` – Markup structure  
-- `style.css` – Responsive styling  
+- `catphotoapp.html` – Markup structure  
+- `catphotoappstyle.css` – Responsive styling  
 - `README.md` – Project documentation  
 
 ## 💡 Inspiration
@@ -34,7 +34,7 @@ This project began as part of the [freeCodeCamp Cat Photo App challenge](https:/
 
 ## 🚀 How to Run
 
-Open `index.html` directly in your browser or view the live site via GitHub Pages:
+Open `catphotoapp.html` directly in your browser or view the live site via GitHub Pages:
 
 👉 [Live Demo](https://mukulsehrawat07.github.io/Cat-Photo-App/)
 
